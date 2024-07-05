@@ -1,0 +1,59 @@
+body{
+  background-color: rgb(160, 159, 159);
+margin: 0px;
+padding: 0px;
+}
+
+.loginform{
+  width: 500px;
+  height: 100px;
+  background-color: aqua;
+}
+
+
+.techerlogin{
+  width: 500px;
+  height: 300px;
+  
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.techerlogin h3{
+  text-align: center;
+  color: red;
+  font-weight: 700;
+  padding: 20px;
+}
+
+
+.techerlogin form{
+  text-align: center;
+}
+
+.form-group label{
+  font-weight: 700;
+  font-size: 18px;
+
+}
+
+/* button{
+  margin-top: 30px;
+  background-color: black;
+  color: white;
+  width: 150px;
+} */
+
+
+
+
+/* #################Home Part################# */
+
+.addstudent {
+  text-align: center;
+  padding: 15px;
+}
